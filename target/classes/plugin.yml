@@ -1,0 +1,8 @@
+name: Template
+version: '1.0-SNAPSHOT'
+main: com.torben.template.Main
+api-version: 1.16
+authors: [ Torben ]
+description: 1.16.5 template plugin
+commands:
+  anvil-gui:
