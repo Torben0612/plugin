@@ -1,0 +1,9 @@
+plugin_enabled: 'Plugin Enabled'
+plugin_disabled: 'PluginEnabled'
+player_cmd_only_error: 'this is a player only command'
+
+join_msg: 'Welcome to the server!'
+
+broadcast_prefix: '[Broadcast] '
+text_inside_anvil_gui: 'Message'
+anvil_gui_title: 'Broadcast Message...'
